@@ -9,5 +9,6 @@ public class Main {
     public static void main(String[] args) {
     StringHandler stringHandler = new StringHandler();
     stringHandler.doLongestShortestStringLength();
+    stringHandler.doWordsLengthComparison();
     }
 }
